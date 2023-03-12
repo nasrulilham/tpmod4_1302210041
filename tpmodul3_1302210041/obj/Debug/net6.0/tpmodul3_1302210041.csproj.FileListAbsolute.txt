@@ -1,0 +1,5 @@
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.csproj.AssemblyReference.cache
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.AssemblyInfoInputs.cache
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.AssemblyInfo.cs
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.csproj.CoreCompileInputs.cache
