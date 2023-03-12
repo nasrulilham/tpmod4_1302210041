@@ -3,3 +3,13 @@ F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\
 F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.AssemblyInfoInputs.cache
 F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.AssemblyInfo.cs
 F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.csproj.CoreCompileInputs.cache
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\bin\Debug\net6.0\tpmodul3_1302210041.exe
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\bin\Debug\net6.0\tpmodul3_1302210041.deps.json
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\bin\Debug\net6.0\tpmodul3_1302210041.runtimeconfig.json
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\bin\Debug\net6.0\tpmodul3_1302210041.dll
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\bin\Debug\net6.0\tpmodul3_1302210041.pdb
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.dll
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\refint\tpmodul3_1302210041.dll
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.pdb
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\tpmodul3_1302210041.genruntimeconfig.cache
+F:\Tugas\Tugas[T4]\KPL\praktikum\modul4\tpmodul3_1302210041\tpmodul3_1302210041\obj\Debug\net6.0\ref\tpmodul3_1302210041.dll
